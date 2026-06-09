@@ -4,7 +4,7 @@
 
 # **Santius Labs**
 
-### Advanced &amp; intelligent systems for hard problems
+### Advanced &amp; intelligent systems for interesting problems
 
 Based in Trinidad &amp; Tobago, shipping to clients worldwide.
 
@@ -22,7 +22,7 @@ Based in Trinidad &amp; Tobago, shipping to clients worldwide.
 
 ## What we build
 
-We build advanced and intelligent systems to solve hard problems. Our work spans **AI, high-performance computing, edge computing, robotics, and computational biology**.
+We build advanced and intelligent systems to solve interesting problems. Our work spans **AI, high-performance computing, edge computing, robotics, and computational biology**.
 
 <table>
   <tr>
