@@ -4,7 +4,7 @@
 
 # **Santius Labs**
 
-### Applied AI engineering · High-performance and edge ML
+### Advanced &amp; intelligent systems for hard problems
 
 Based in Trinidad &amp; Tobago — shipping to clients worldwide.
 
@@ -22,21 +22,21 @@ Based in Trinidad &amp; Tobago — shipping to clients worldwide.
 
 ## What we build
 
-We help enterprises and startups deploy AI where it actually works — under the privacy, latency, and budget constraints that generic cloud vendors can't meet.
+We build advanced and intelligent systems to solve interesting problems — the kind most teams can't, or won't, take on. We work across **AI, high-performance computing, edge computing, robotics, and computational biology**, and we go wherever a hard problem leads.
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Edge &amp; on-device ML</h3>
-      Quantised models running in-browser and on constrained hardware via ONNX Runtime Web, WebAssembly, and WebGPU. No data leaves the device.
+      <h3>Intelligent systems</h3>
+      Models, agents, and reasoning pipelines built for real workloads — not demos. Grounded, measurable, and deployed where the problem actually lives.
     </td>
     <td width="33%" valign="top">
-      <h3>Applied AI engineering</h3>
-      Custom pipelines, RAG with grounded citations, multimodal extraction, and inference cost optimisation for production workloads.
+      <h3>Hard engineering</h3>
+      Performance-critical and physically-constrained systems: parallel and GPU compute, on-device inference, robotics, and simulation. Close to the metal when it matters.
     </td>
     <td width="33%" valign="top">
-      <h3>AI consulting &amp; research</h3>
-      Architecture reviews, technical due diligence, and production-grade proofs of concept for regulated industries.
+      <h3>Applied research</h3>
+      Novel problems at the edge of what's known — computational biology, new algorithms, and production-grade proofs of concept that turn research into shipped systems.
     </td>
   </tr>
 </table>
