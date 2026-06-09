@@ -66,7 +66,7 @@ Live interactive demos paired with deep technical writeups, at **[santiuslabs.co
 
 Founded and operated by **Sergio Mathurin**, senior software engineer, data scientist, and lecturer in the Department of Computing &amp; Information Technology at The University of the West Indies, St. Augustine.
 
-<sub>We are small, senior, and deliberately specialised. We don't staff junior teams against retainers.</sub>
+<sub>We are small, senior, and deliberately specialised.</sub>
 
 ---
 
