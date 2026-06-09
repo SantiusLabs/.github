@@ -22,7 +22,7 @@ Based in Trinidad &amp; Tobago, shipping to clients worldwide.
 
 ## What we build
 
-We build advanced and intelligent systems to solve interesting problems. Our work spans **artificial intelligence, high-performance computing, edge computing, robotics, and computational biology**.
+We build advanced and intelligent systems to solve interesting problems. Our work spans **artificial intelligence, high-performance computing, edge computing, robotics, game development, and computational biology**.
 
 <table>
   <tr>
