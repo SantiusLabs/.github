@@ -6,7 +6,7 @@
 
 ### Advanced &amp; intelligent systems for hard problems
 
-Based in Trinidad &amp; Tobago — shipping to clients worldwide.
+Based in Trinidad &amp; Tobago, shipping to clients worldwide.
 
 <br />
 
@@ -22,13 +22,13 @@ Based in Trinidad &amp; Tobago — shipping to clients worldwide.
 
 ## What we build
 
-We build advanced and intelligent systems to solve interesting problems — the kind most teams can't, or won't, take on. We work across **AI, high-performance computing, edge computing, robotics, and computational biology**, and we go wherever a hard problem leads.
+We build advanced and intelligent systems to solve hard problems. Our work spans **AI, high-performance computing, edge computing, robotics, and computational biology**.
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3>Intelligent systems</h3>
-      Models, agents, and reasoning pipelines built for real workloads — not demos. Grounded, measurable, and deployed where the problem actually lives.
+      Models, agents, and reasoning pipelines built for real workloads, not demos. Grounded, measurable, and deployed where the problem actually lives.
     </td>
     <td width="33%" valign="top">
       <h3>Hard engineering</h3>
@@ -36,23 +36,10 @@ We build advanced and intelligent systems to solve interesting problems — the 
     </td>
     <td width="33%" valign="top">
       <h3>Applied research</h3>
-      Novel problems at the edge of what's known — computational biology, new algorithms, and production-grade proofs of concept that turn research into shipped systems.
+      Novel problems at the edge of what's known: computational biology, new algorithms, and production-grade proofs of concept that turn research into shipped systems.
     </td>
   </tr>
 </table>
-
----
-
-## Industries we serve
-
-<p>
-  <img alt="Financial services" src="https://img.shields.io/badge/Financial_Services-27272a?style=flat-square" />
-  <img alt="Insurance" src="https://img.shields.io/badge/Insurance-27272a?style=flat-square" />
-  <img alt="Compliance" src="https://img.shields.io/badge/Compliance_%26_AML-27272a?style=flat-square" />
-  <img alt="Healthcare" src="https://img.shields.io/badge/Healthcare-27272a?style=flat-square" />
-  <img alt="Government" src="https://img.shields.io/badge/Government-27272a?style=flat-square" />
-  <img alt="Professional services" src="https://img.shields.io/badge/Professional_Services-27272a?style=flat-square" />
-</p>
 
 ---
 
@@ -77,7 +64,7 @@ Live interactive demos paired with deep technical writeups, at **[santiuslabs.co
 
 ## Who we are
 
-Founded and operated by **Sergio Mathurin** — senior software engineer, data scientist, and lecturer in the Department of Computing &amp; Information Technology at The University of the West Indies, St. Augustine.
+Founded and operated by **Sergio Mathurin**, senior software engineer, data scientist, and lecturer in the Department of Computing &amp; Information Technology at The University of the West Indies, St. Augustine.
 
 <sub>We are small, senior, and deliberately specialised. Engagements are scoped tightly; we don't staff junior teams against retainers.</sub>
 
